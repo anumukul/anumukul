@@ -2,10 +2,10 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-singh-b0658b372/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anumukul)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://anubhav-singh-web3.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anumukul009@gmail.com)
 
 </div>
 
@@ -62,7 +62,7 @@ I'm a passionate **Full Stack Developer** and **Blockchain Engineer** currently 
 
 ## 🌟 Featured Projects
 
-### 🔗 [Decentralized Exchange](https://github.com/your-username/dex-project)
+### 🔗 [Decentralized Exchange](https://github.com/anumukul/Decentralized-Exchange)
 **Tech Stack:** React, Solidity, Ethers.js, Hardhat
 
 A full-featured DEX enabling seamless ERC-20 token swaps with MetaMask integration. Features gas-optimized smart contracts and an intuitive React frontend.
@@ -72,7 +72,7 @@ A full-featured DEX enabling seamless ERC-20 token swaps with MetaMask integrati
 - ✅ Gas-optimized smart contracts
 - ✅ Real-time transaction tracking
 
-### 🏥 [Decentralized Healthcare Management System](https://github.com/your-username/healthcare-dapp)
+### 🏥 [Decentralized Healthcare Management System](https://github.com/anumukul/healthCare-Dapp)
 **Tech Stack:** React.js, Solidity, Hardhat, Ethers.js
 
 Secure patient record management on Ethereum blockchain with role-based access control and healthcare provider authorization.
@@ -82,7 +82,7 @@ Secure patient record management on Ethereum blockchain with role-based access c
 - ✅ Healthcare provider authorization
 - ✅ HIPAA-compliant architecture
 
-### 💼 [Recall - Memory Assistant Chrome Extension](https://github.com/your-username/recall-extension)
+### 💼 [Recall - Memory Assistant Chrome Extension](github.com/anumukul/recall)
 **Tech Stack:** Next.js, PostgreSQL, TypeScript, Cloudinary, NextAuth
 
 AI-powered Chrome extension designed to assist Alzheimer's patients with personalized, contextual memory prompts.
@@ -92,7 +92,7 @@ AI-powered Chrome extension designed to assist Alzheimer's patients with persona
 - ✅ 60% reduction in front-end latency
 - ✅ Secure authentication system
 
-### 📈 [TrackBit - Cryptocurrency Tracker](https://github.com/your-username/trackbit)
+### 📈 [TrackBit - Cryptocurrency Tracker](https://github.com/anumukul/TrackBit)
 **Tech Stack:** React, Vite, JavaScript, CSS
 
 Real-time cryptocurrency price tracking application with portfolio visualization and market analysis features.
@@ -120,12 +120,12 @@ Real-time cryptocurrency price tracking application with portfolio visualization
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
+![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anumukul&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anumukul&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=anumukul&theme=radical&hide_border=true)
 
 </div>
 
@@ -140,7 +140,23 @@ Real-time cryptocurrency price tracking application with portfolio visualization
 
 ## 📈 Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anumukul&theme=react-dark&hide_border=true&area=true&point=false)
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anumukul&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/anumukul/anumukul/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ## 🤝 Let's Connect!
 
@@ -151,12 +167,28 @@ I'm always open to collaborating on interesting projects and innovative ideas. W
 - 💡 Interested in **Blockchain**, **DeFi**, and **Web3** innovations
 - 📚 Constantly learning and exploring new technologies
 
+## 📞 Contact Information
+
+<div align="center">
+
+| Platform | Handle | Link |
+|----------|--------|------|
+| 🐦 Twitter | @your_twitter | [Follow me](https://x.com/AnubhavSingh456) |
+| 💼 LinkedIn | Anubhav Singh | [Connect](https://www.linkedin.com/in/anubhav-singh-b0658b372/) |
+
+| 📧 Email | your.email@example.com | [Send Email](mailto:anumukul009@gmail.com) |
+| 🌐 Portfolio | your-portfolio.com | [Visit Site](https://anubhav-singh-web3.vercel.app) |
+
+</div>
+
 ---
 
 <div align="center">
   
 *"Building the decentralized future, one commit at a time."*
 
-⭐️ From [Anubhav Singh](https://github.com/your-username)
+⭐️ From [Anubhav Singh](https://github.com/anumukul)
+
+![Profile Views](https://komarev.com/ghpvc/?username=anumukul&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
