@@ -173,8 +173,7 @@ I'm always open to collaborating on interesting projects and innovative ideas. W
 
 | Platform | Handle | Link |
 |----------|--------|------|
-| 🐦 Twitter | @AnubhavSingh456
- | [Follow me](https://x.com/AnubhavSingh456) |
+| 🐦 Twitter | @AnubhavSingh456| [Follow me](https://x.com/AnubhavSingh456) |
 | 💼 LinkedIn | Anubhav Singh | [Connect](https://www.linkedin.com/in/anubhav-singh-b0658b372/) |
 
 | 📧 Email | anumukul009@gmail.com | [Send Email](mailto:anumukul009@gmail.com) |
