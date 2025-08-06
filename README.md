@@ -82,7 +82,7 @@ Secure patient record management on Ethereum blockchain with role-based access c
 - ✅ Healthcare provider authorization
 - ✅ HIPAA-compliant architecture
 
-### 💼 [Recall - Memory Assistant Chrome Extension](github.com/anumukul/recall)
+### 💼 [Recall - Memory Assistant Chrome Extension](https://github.com/anumukul/recall)
 **Tech Stack:** Next.js, PostgreSQL, TypeScript, Cloudinary, NextAuth
 
 AI-powered Chrome extension designed to assist Alzheimer's patients with personalized, contextual memory prompts.
@@ -150,11 +150,30 @@ Real-time cryptocurrency price tracking application with portfolio visualization
 
 </div>
 
-## 📈 Contribution Graph
+## 📈 Contribution Visualizations
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/anumukul/anumukul/output/github-contribution-grid-snake-dark.svg)
+<!-- 3D Contribution Calendar -->
+![3D Contribution Calendar](https://github.com/anumukul/anumukul/blob/output/github-contribution-grid-snake-dark.svg)
+
+<!-- Alternative Contribution Graph -->
+![Contribution Graph](https://github-readme-stats.vercel.app/api?username=anumukul&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=20)
+
+<!-- Detailed Language Stats -->
+![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anumukul&theme=radical)
+
+</div>
+
+## 📊 Detailed GitHub Analytics
+
+<div align="center">
+
+![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anumukul&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anumukul&theme=radical&utcOffset=5.5)
+
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anumukul&theme=radical)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anumukul&theme=radical)
 
 </div>
 
@@ -173,11 +192,10 @@ I'm always open to collaborating on interesting projects and innovative ideas. W
 
 | Platform | Handle | Link |
 |----------|--------|------|
-| 🐦 Twitter | @AnubhavSingh456| [Follow me](https://x.com/AnubhavSingh456) |
+| 🐦 Twitter | @AnubhavSingh456 | [Follow me](https://x.com/AnubhavSingh456) |
 | 💼 LinkedIn | Anubhav Singh | [Connect](https://www.linkedin.com/in/anubhav-singh-b0658b372/) |
-
 | 📧 Email | anumukul009@gmail.com | [Send Email](mailto:anumukul009@gmail.com) |
-| 🌐 Portfolio | https://anubhav-singh-web3.vercel.app | [Visit Site](https://anubhav-singh-web3.vercel.app) |
+| 🌐 Portfolio | anubhav-singh-web3.vercel.app | [Visit Site](https://anubhav-singh-web3.vercel.app) |
 
 </div>
 
