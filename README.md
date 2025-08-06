@@ -173,11 +173,12 @@ I'm always open to collaborating on interesting projects and innovative ideas. W
 
 | Platform | Handle | Link |
 |----------|--------|------|
-| 🐦 Twitter | @your_twitter | [Follow me](https://x.com/AnubhavSingh456) |
+| 🐦 Twitter | @AnubhavSingh456
+ | [Follow me](https://x.com/AnubhavSingh456) |
 | 💼 LinkedIn | Anubhav Singh | [Connect](https://www.linkedin.com/in/anubhav-singh-b0658b372/) |
 
-| 📧 Email | your.email@example.com | [Send Email](mailto:anumukul009@gmail.com) |
-| 🌐 Portfolio | your-portfolio.com | [Visit Site](https://anubhav-singh-web3.vercel.app) |
+| 📧 Email | anumukul009@gmail.com | [Send Email](mailto:anumukul009@gmail.com) |
+| 🌐 Portfolio | https://anubhav-singh-web3.vercel.app | [Visit Site](https://anubhav-singh-web3.vercel.app) |
 
 </div>
 
