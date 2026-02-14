@@ -6,17 +6,21 @@
 * **[Anabi.aI](https://anabi.ai/)** - Software Engineer
 ## Recent Hackathons
 
-**[EthGlobal New Delhi 2025](https://ethglobal.com/showcase/rosca-guard-exm1c)** - [ROSCA-Guard](https://github.com/anumukul/ROSCA-Guard)  
-  Privacy-preserving savings circles with zero-knowledge KYC, PYUSD payments, and cross-chain architecture
+
 
 **[EthGlobal HackMoney 2026](https://ethglobal.com/showcase/abyss-protocol-rz97h)** - [Abyss Protocol](https://github.com/Naveen-6087/sui-tma)  
   Advanced DeFi trading platform on Sui with AI multi-chain agent and privacy-preserving intent trading
 
- **[Somnia DeFi Hackathon 2025](https://somnia.network/)** - [PixelVerse](https://github.com/anumukul/PixelVerse)  
-  Real-time collaborative NFT canvas with live analytics overlay
 
  **[Movement M1 Hackathon 2025](https://movementlabs.xyz/)** - [StreamGift](https://github.com/anumukul/StreamGift)  
   Social DeFi primitive enabling token streaming to Twitter handles and emails
+
+  **[EthGlobal New Delhi 2025](https://ethglobal.com/showcase/rosca-guard-exm1c)** - [ROSCA-Guard](https://github.com/anumukul/ROSCA-Guard)  
+  Privacy-preserving savings circles with zero-knowledge KYC, PYUSD payments, and cross-chain architecture
+
+   **[Somnia DeFi Hackathon 2025](https://somnia.network/)** - [PixelVerse](https://github.com/anumukul/PixelVerse)  
+  Real-time collaborative NFT canvas with live analytics overlay
+
 
 ## Projects
 * **[ROSCA-Guard](https://github.com/anumukul/ROSCA-Guard)** - Privacy-preserving identity verification for decentralized ROSCAs using Self Protocol and PYUSD. Zero-knowledge KYC with cross-chain architecture on Celo and Ethereum
